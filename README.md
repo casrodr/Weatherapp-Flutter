@@ -11,7 +11,8 @@ an API to retrieve weather information from city name inputted.
 
 ## Screenshots
 
-Image.asset('assets/images/WeatherAppScreen.PNG')
+![WeatherAppScreen](https://github.com/casrodr/Weatherapp-Flutter/assets/102768038/7231bc69-dc54-4da2-a25e-c3e79196972c)
+
 
 ## API Key
 
