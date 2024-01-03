@@ -11,7 +11,7 @@ an API to retrieve weather information from city name inputted.
 
 ## Screenshots
 
-[Add screenshots or GIFs of your app here]
+Image.asset('assets/images/WeatherAppScreen.PNG')
 
 ## API Key
 
